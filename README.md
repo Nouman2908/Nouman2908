@@ -22,11 +22,8 @@ I architect immersive 3D websites and leverage advanced AI to craft ultra-detail
 [![](https://komarev.com/ghpvc/?username=Nouman2908&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
- ![snake gif](https://github.com/Nouman2908/Nouman2908/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Nouman2908/Nouman2908/blob/output/github-snake-dark.svg)
 </div>
 
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
